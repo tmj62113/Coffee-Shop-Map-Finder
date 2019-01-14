@@ -1,6 +1,6 @@
 ## Coffee Shop Finder(Neighborhood Map React), an Udacity project
 
-This project is part of the __Frontend Web Developer Nanodegree (full Google scholarship)__. This project's purpose is to build a single page web application from scratch using ReactJS and to add features provided by external APIs (like Maps Javascript API and FourSquare Places APi), focusing on components, props and state.
+This project is part of the __Frontend Web Developer Nanodegree. This project's purpose is to build a single page web application from scratch using ReactJS and to add features provided by external APIs (like Maps Javascript API and FourSquare Places APi), focusing on components, props and state.
 
 This app shows 10 coffee shops in/near Olathe, Kansas.
 
