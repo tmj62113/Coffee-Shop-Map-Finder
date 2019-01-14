@@ -18,7 +18,7 @@ Coffee Shop Finder is fully responsive to optimize the design for every viewport
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Installation
-Download 'Coffee Shop Map' and save it locally. Once downloaded, you need to run `npm install` and then `npm start` in your console.
+Download 'Coffee Shop Map Finder' and save it locally. Once downloaded, you need to run `npm install` and then `npm start` in your console.
 `Create React App` provide a full working service worker. To show it in action you must run the application in `production build mode`. To do that, run `npm run build` to create a build version of the app and then `serve -s build` to serve the production build in localhost.
 **IMPORTANT**: `Node JS` and `NPM (Node Package Manager)` is **required** to install and run the application. Visit [Node.js](https://nodejs.org/) for more information.
 
